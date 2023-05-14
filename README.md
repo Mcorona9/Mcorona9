@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Mcorona9/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Mcorona9/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mcorona/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mcorona9/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mcorona9/Network-Security-Groups-NSGs-)
   - [VPN-Setup-and-Usage-Proton-VPN-](https://github.com/Mcorona9/VPN-Setup-and-Usage-Proton-VPN-)
 
