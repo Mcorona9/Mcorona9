@@ -1,6 +1,6 @@
 <h1>Hi, I'm Marco, an <a href="https://www.linkedin.com/feed/">I.T & Cybersecurity Enthuthiast</a></h1>
 
-<h2>💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Labs:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mcorona9/osticket-prereqs)
