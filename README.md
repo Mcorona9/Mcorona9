@@ -2,6 +2,7 @@
 
 <h2> 🔐 Cyber Security project 🔐 </h2>
 
+- [Creating a Live SOC / Honey Net in Azure](https://github.com/Mcorona9/Azure-Honeynet-Simulating-Real-World-Cyber-Attacks)
 
 <h2>💻 Information Technology Labs:</h2>
 
