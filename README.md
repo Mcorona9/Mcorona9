@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marco, an <a href="https://www.linkedin.com/feed/">I.T & Cybersecurity Professional </a>😎</h1>  
+<h1>Hi, I'm Marco, an <a href="https://www.linkedin.com/feed/">I.T & Cybersecurity Professional </a>🛡️</h1>  
 
 <h2> 🔐 Cyber Security project 🔐 </h2>
 
