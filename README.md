@@ -6,7 +6,7 @@
 
   
 - <b>Microsoft Azure</b>
- - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mcorona9/Network-Security-Groups-NSGs-)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mcorona9/Network-Security-Groups-NSGs-)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mcorona9/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [VPN-Setup-and-Usage-Proton-VPN-](https://github.com/Mcorona9/VPN-Setup-and-Usage-Proton-VPN-)
 
