@@ -1,6 +1,6 @@
 <h1>Hi, I'm Marco, an <a href="https://www.linkedin.com/feed/">I.T & Cybersecurity Professional </a>🛡️</h1>  
 
-<h2> 🔐 Cyber Security project 🔐 </h2>
+<h2> 🔐 Cyber Security projects 🔐 </h2>
 
 - [Azure Honeynet-Simulationg-Real-Cyber-Attacks](https://github.com/Mcorona9/Azure-Honeynet-Simulating-Real-World-Cyber-Attacks)
 - [OpenVas-Vulnerability-Management](https://github.com/Mcorona9/OpenVas-Vulnerability-Management) 
